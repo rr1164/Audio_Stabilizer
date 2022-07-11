@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/green_checkmark.png</file>
+        <file>img/error_icon.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>stabilizer.qml</file>
+    </qresource>
+</RCC>
